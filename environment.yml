@@ -1,0 +1,13 @@
+
+name: slides-2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gmp
+  - jemalloc
+  - nodejs
+  - openssl
+  - readline
+  - ruby=2.6.6
+  - gxx_linux-64
