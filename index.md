@@ -1,5 +1,5 @@
 ---
 layout: index
-title: Talks in 2021
+title: Talks in 2022
 image: /assets/images/talks.jpg
 ---
