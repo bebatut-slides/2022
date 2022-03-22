@@ -23,7 +23,7 @@ Note:
 
 "*An incident in which two or more people develop the same disease or infection following the consumption of a common contaminated food*"
 
-![](images/efsa_foodborne_outbreak.png) <!-- .element width="50%" -->
+![](images/efsa_foodborne_outbreak.png) <!-- .element width="40%" -->
 
 <small>[EFSA, 2021. Story map on foodborne outbreaks](https://multimedia.efsa.europa.eu/fbo-storymaps/index.html)</small>
 
@@ -72,8 +72,6 @@ Funded by [EOSC-Life Digital Life Science Call for academia-industry collaborati
 
 ![](images/team.png) <!-- .element width="80%" -->
 
-
-
 ---
 ### Invesigation of foodborne pathogen by Biolytix
 
@@ -90,36 +88,68 @@ Funded by [EOSC-Life Digital Life Science Call for academia-industry collaborati
 ![](images/overview_3.png) <!-- .element width="100%" -->
 
 ---
-### Expected value for the team
+### Expected outcome
 
-- Biolytix
-    - Knowledge about leveraging bioinformatic pipelines to make them sustainable, cloud-native and scalable
-    - Implementation of  better data and compute practices
-- Freiburg Galaxy team
-    - Concrete use case to develop and document the process of using Galaxy to modernize and FAIRify existing workflow
-    - Resources to support the growing microbial and public health Galaxy communities
-    - Data, workflows and training directly usable by the [Street Science community](https://streetscience.community/)
-    - Deep insight in foodborne pathogen identification and tracking
-    - Connections with existing projects like IRIDA
+![](images/biolytix.png) <!-- .element width="30%" -->
 
----
+- Knowledge to make bioinformatic pipelines
+    - **FAIR**<!-- .element style="color:#1f8787" -->
+    - sustainable
+    - scalable
+    - open
+- Implementation of **better data and compute practices**<!-- .element style="color:#1f8787" -->
+
+----
+### Expected outcome
+
+![](images/freiburg_galaxy.png) <!-- .element width="20%" -->
+
+- Concrete use case to develop and **document**<!-- .element style="color:#1f8787" --> the process of using Galaxy to modernize and **FAIR**<!-- .element style="color:#1f8787" -->ify existing workflow
+- **Resources**<!-- .element style="color:#1f8787" --> for the growing microbial and public health Galaxy communities
+- Data, workflows and training directly usable, e.g. for **outreach**<!-- .element style="color:#1f8787" --> via the [Street Science community](https://streetscience.community/)
+- Deep insight in foodborne pathogen identification and tracking
+
+----
 ### Expected outcome for the community
 
-**Accessible resources to detect foodborne pathogens via<br> direct food Nanopore sequencing**
+**Accessible resources to detect foodborne pathogens via<br> direct food Nanopore sequencing**<!-- .element style="color:#1f8787" -->
 
-1. No need for prior pathogen isolation
-1. 1st **open** pipeline for food analysis using public open and **modern** infrastructures
-    1. Open source and state-of-the-art tools
-    2. Bioconda packages and BioContainers for dependencies
-    3. **FAIR** and easily **adaptable** Galaxy workflows
-        - Available via on [Galaxy Europe](https://usegalaxy.eu/)
-        - Annotated and shared on WorkflowHub
-        - Automatically tested using LifeMonitor
-    4. **Documentation** in the form of online [GTN](https://training.galaxyproject.org/) tutorials
-2. ~30TB of **public FAIR** data to **test** similar pipelines
+1. **Direct and faster**<!-- .element style="color:#1f8787" --> detection and tracing methods
 
 Note:
 Foodborne pathogens and their impact on human health are a major problem in the food industry. Advanced detection and tracing beyond classical methods would have a tremendous impact in  large and small scale food production. The identification of the exact pathogenic strains and their genomic information in the food without isolation would lead to a new level of food security. The source of food contaminants could be faster identified and avoid outbreaks of foodborne illnesses. Future outbreaks of foodborne pathogens with all its hassles could be reduced.
+
+----
+### Expected outcome for the community
+
+**Accessible resources to detect foodborne pathogens via<br> direct food Nanopore sequencing**<!-- .element style="color:#1f8787" -->
+
+1. **Direct and faster**<!-- .element style="color:#1f8787" --> detection and tracing methods
+1. 1st **open**<!-- .element style="color:#1f8787" --> pipeline for food analysis using public open and **modern**<!-- .element style="color:#1f8787" --> infrastructures
+    1. Open source and state-of-the-art tools
+    2. Bioconda packages and BioContainers for dependencies
+    3. **FAIR**<!-- .element style="color:#1f8787" --> and easily **adaptable**<!-- .element style="color:#1f8787" --> Galaxy workflows
+        - Available via on [Galaxy Europe](https://usegalaxy.eu/)
+        - Annotated and shared on WorkflowHub
+        - Automatically tested using LifeMonitor
+    4. **Documentation**<!-- .element style="color:#1f8787" --> in the form of online [GTN](https://training.galaxyproject.org/) tutorials
+
+
+----
+### Expected outcome for the community
+
+**Accessible resources to detect foodborne pathogens via<br> direct food Nanopore sequencing**<!-- .element style="color:#1f8787" -->
+
+1. **Direct and faster**<!-- .element style="color:#1f8787" --> detection and tracing methods
+1. 1st **open**<!-- .element style="color:#1f8787" --> pipeline for food analysis using public open and **modern**<!-- .element style="color:#1f8787" --> infrastructures
+    1. Open source and state-of-the-art tools
+    2. Bioconda packages and BioContainers for dependencies
+    3. **FAIR**<!-- .element style="color:#1f8787" --> and easily **adaptable**<!-- .element style="color:#1f8787" --> Galaxy workflows
+        - Available via on [Galaxy Europe](https://usegalaxy.eu/)
+        - Annotated and shared on WorkflowHub
+        - Automatically tested using LifeMonitor
+    4. **Documentation**<!-- .element style="color:#1f8787" --> in the form of online [GTN](https://training.galaxyproject.org/) tutorials
+2. ~30TB of **public FAIR**<!-- .element style="color:#1f8787" --> data to **test**<!-- .element style="color:#1f8787" --> similar pipelines
 
 ---
 ### Thank You!
