@@ -73,12 +73,12 @@ Funded by [EOSC-Life Digital Life Science Call for academia-industry collaborati
 ![](images/team.png) <!-- .element width="80%" -->
 
 ---
-### Invesigation of foodborne pathogen by Biolytix
+### Investigation of foodborne pathogen by Biolytix
 
 ![](images/overview_1.png) <!-- .element width="100%" -->
 
 ----
-### Invesigation of foodborne pathogen by Biolytix
+### Investigation of foodborne pathogen by Biolytix
 
 ![](images/overview_2.png) <!-- .element width="100%" -->
 
@@ -105,8 +105,9 @@ Funded by [EOSC-Life Digital Life Science Call for academia-industry collaborati
 ![](images/freiburg_galaxy.png) <!-- .element width="20%" -->
 
 - Concrete use case to develop and **document**<!-- .element style="color:#1f8787" --> the process of using Galaxy to modernize and **FAIR**<!-- .element style="color:#1f8787" -->ify existing workflow
-- **Resources**<!-- .element style="color:#1f8787" --> for the growing microbial and public health Galaxy communities
-- Data, workflows and training directly usable, e.g. for **outreach**<!-- .element style="color:#1f8787" --> via the [Street Science community](https://streetscience.community/)
+- Data, workflows and training **resources**<!-- .element style="color:#1f8787" -->
+   - for the growing microbial and public health Galaxy communities
+   - for **outreach**<!-- .element style="color:#1f8787" --> via the [Street Science community](https://streetscience.community/)
 - Deep insight in foodborne pathogen identification and tracking
 
 ----
