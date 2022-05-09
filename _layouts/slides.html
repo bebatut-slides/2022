@@ -11,6 +11,9 @@
         <script defer src="https://use.fontawesome.com/releases/v5.10.2/js/all.js"></script>
         <link rel="stylesheet" href="{{ "/assets/css/slides.css" | prepend: site.baseurl }}">
         <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+        {% if page.style %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/{{ page.dir }}/style.css">
+        {% endif %}
     </head>
     <body>
         <div class="reveal">
